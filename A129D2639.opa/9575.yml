@@ -1,0 +1,67 @@
+segment_sources:
+  I597A67E4:
+    type: origin_type
+    relation: translation
+    base: '6226'
+    lang: en
+  I8E40F2AB:
+    type: origin_type
+    relation: translation
+    base: CEB4
+    lang: de
+  IC7BA2C92:
+    type: origin_type
+    relation: translation
+    base: A327
+    lang: es
+  IE09AD976:
+    type: origin_type
+    relation: translation
+    base: B1A8
+    lang: fr
+  I99A49987:
+    type: origin_type
+    relation: translation
+    base: 050C
+    lang: nl
+  I78FFEEEE:
+    type: origin_type
+    relation: translation
+    base: E8B3
+    lang: bo
+segment_pairs:
+  0d17bfd409604bf8b7acf7cb34fe1969:
+    I597A67E4: 81644f1e5e9f428fae6ff4eca2f4ef9a
+    I8E40F2AB: 611af7c819e24cddb19531cd85dba2de
+    IC7BA2C92: 5c802e10bbed4ad598ee83aa9c1ccb84
+    IE09AD976: bd684e8aeb5b473cbcefbdc9b628d737
+    I99A49987: a80f4c58629941e09e9013ff9eb28e99
+    I78FFEEEE: 6d15213c27804b8f8335ac0e81ace210
+  d1eef90f8236436bb1c48df054fc1b6c:
+    I597A67E4: 0d98c899c8f44e22bc6cc3ffd3cc6430
+    I8E40F2AB: 625146042de14f949a83b63a554e7aa4
+    IC7BA2C92: 215cc90e42ad4681992b79731543f00b
+    IE09AD976: a09a66b1d8f94e4eb397ceef06d62780
+    I99A49987: f108ef88df2f46779494af1e7a182fcb
+    I78FFEEEE: ada465e8a5f94a74a64dc2b7ce781503
+  742c4df1ddf446bd966da872e136a640:
+    I597A67E4: 7f5fe05dcfa4486a9adfb222dc3f410b
+    I8E40F2AB: e80e379a56fb4a3fbddab1ff180e5f71
+    IC7BA2C92: e26c343782134322ad213b363e0ccab5
+    IE09AD976: 6ed42a433bac41a09f7bd1c5f3de3b53
+    I99A49987: 5842a0297c4f4614b3d49ed66f012304
+    I78FFEEEE: b60c1da8afa5485e85f882fd95e4722b
+  b2d50484cf494b52bd0cf0bf67045c44:
+    I597A67E4: 8ec896c87db8452ebcb416d38951761d
+    I8E40F2AB: 68bc1f2a74ff4d0f8f1255815cb5c125
+    IC7BA2C92: b633d382867d4b8f9bd192c880145b7c
+    IE09AD976: 0e07982b35634cc7bf7aed19c2e5f61e
+    I99A49987: 42cb94ffab284b93ace14adb7e106f9a
+    I78FFEEEE: 61b724118b3b476a90769af6dca0da0c
+  13a36fcab104465bbcb7853a4d59956e:
+    I597A67E4: 5fe0babf399740eaa17b92312a2e3e16
+    I8E40F2AB: 04f5abf91f944897a8f5c1acefa0ca68
+    IC7BA2C92: 8873bcca720647cfb726afcbc90694e0
+    IE09AD976: 1d94d0b2c38c47b98da61ba944fe0f72
+    I99A49987: 8170939c4ea04076b4c7ec3704349184
+    I78FFEEEE: 123d27bfa836433f9c2176870e744c6f
